@@ -23,9 +23,9 @@ SO THAT I can plan a trip accordingly
  
 ## Contact 
 
-Visit my [Github]()
+Visit my [Github](https://github.com/dirie93/NowForecast)
 
 <br>
 
-Visit my [Deployed App]()
+Visit my [Deployed App](https://dirie93.github.io/NowForecast/)
 
